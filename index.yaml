@@ -3,9 +3,9 @@ entries:
   node:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-28T10:25:42.858898509+01:00"
+    created: "2023-02-28T11:44:34.829624461+01:00"
     description: A Helm chart for Kubernetes
-    digest: cf940ebb87d214e532fb9bd352840b55c3c8f60f74daa76031dbe9642d06b103
+    digest: 9a2b640a03444b6230a1d821ee16658f09842e71348b8bed40d08a7005a54593
     name: node
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-28T10:25:42.858379745+01:00"
+    created: "2023-02-28T11:44:34.828306113+01:00"
     description: A Helm chart for Kubernetes
     digest: a492f49355722d2910c48584cc30f795d941605d50ee4549daa075056db928f1
     name: node
@@ -21,4 +21,4 @@ entries:
     urls:
     - node-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-28T10:25:42.857913617+01:00"
+generated: "2023-02-28T11:44:34.827780443+01:00"
